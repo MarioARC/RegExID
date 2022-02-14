@@ -3,7 +3,6 @@ import java.util.Scanner;
 public class MainMethod {
 
     public static void main(String[] args) {
-        Scanner input = new Scanner(System.in);
         RegExID identity1 = new RegExID();
         RegExID identity2 = new RegExID();
 
